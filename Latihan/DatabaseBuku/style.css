@@ -1,0 +1,24 @@
+* {
+	text-decoration: none;
+}
+
+.index {
+	margin: auto;
+	width: 90%;
+	text-transform: uppercase;
+	font-family: sans-serif;
+	text-align: center;
+	font-size: 18px;
+}
+
+.index th{
+	background-color: yellow;
+}
+
+h1 {
+	margin: auto;
+	width: 90%;
+	text-transform: uppercase;
+	font-family: sans-serif;
+	text-align: center;
+}
